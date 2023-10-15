@@ -1,7 +1,12 @@
 {
 
 	"canciones": [
+		
+		{
+			"nombre": "Tu Forma De Amar (Maelo Ruiz con Pedro Conga)",
 
+			"ruta": "canciones/tuformadeamar.mp3"
+		},
 		{
 			"nombre": "Cali Pachanguero (Moncho Santana con El Grupo Niche)",
 
