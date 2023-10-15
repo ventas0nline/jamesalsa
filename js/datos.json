@@ -3,6 +3,11 @@
 	"canciones": [
 		
 		{
+			"nombre": "El Bohemio (Roberto Lugo con Luis Perico Ortíz)",
+
+			"ruta": "canciones/elbohemio.mp3"
+		},
+		{
 			"nombre": "Tiempo Pa Matar (Willie Colón)",
 
 			"ruta": "canciones/tiempopamatar.mp3"
