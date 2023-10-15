@@ -3,6 +3,11 @@
 	"canciones": [
 		
 		{
+			"nombre": "Galera Tres (Ismael Miranda)",
+
+			"ruta": "canciones/galeratres.mp3"
+		},
+		{
 			"nombre": "Tu Forma De Amar (Maelo Ruiz con Pedro Conga)",
 
 			"ruta": "canciones/tuformadeamar.mp3"
