@@ -3,6 +3,11 @@
 	"canciones": [
 		
 		{
+			"nombre": "Trago Amargo (Carlos Santos con Roberto Roena)",
+
+			"ruta": "canciones/tragoamargo.mp3"
+		},
+		{
 			"nombre": "Temperatura (Pablo Lebrón con Hermanos Lebrón)",
 
 			"ruta": "canciones/temperatura.mp3"
