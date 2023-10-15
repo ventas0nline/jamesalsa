@@ -3,6 +3,11 @@
 	"canciones": [
 		
 		{
+			"nombre": "Espiritu Burlón (Santiago Cerón)",
+
+			"ruta": "canciones/espirituburlon.mp3"
+		},
+		{
 			"nombre": "Señora (Raul Marrero)",
 
 			"ruta": "canciones/señora.mp3"
