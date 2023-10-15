@@ -3,6 +3,11 @@
 	"canciones": [
 		
 		{
+			"nombre": "El Mar y Yo (Axel Martinez con Pedro Conga)",
+
+			"ruta": "canciones/elmaryyo.mp3"
+		},
+		{
 			"nombre": "Espiritu Burlón (Santiago Cerón)",
 
 			"ruta": "canciones/espirituburlon.mp3"
