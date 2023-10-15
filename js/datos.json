@@ -3,6 +3,11 @@
 	"canciones": [
 		
 		{
+			"nombre": "Señora (Raul Marrero)",
+
+			"ruta": "canciones/señora.mp3"
+		},
+		{
 			"nombre": "El Bohemio (Roberto Lugo con Luis Perico Ortíz)",
 
 			"ruta": "canciones/elbohemio.mp3"
