@@ -3,6 +3,11 @@
 	"canciones": [
 		
 		{
+			"nombre": "Temperatura (Pablo Lebrón con Hermanos Lebrón)",
+
+			"ruta": "canciones/temperatura.mp3"
+		},
+		{
 			"nombre": "El Mar y Yo (Axel Martinez con Pedro Conga)",
 
 			"ruta": "canciones/elmaryyo.mp3"
