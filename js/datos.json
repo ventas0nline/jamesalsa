@@ -3,6 +3,11 @@
 	"canciones": [
 		
 		{
+			"nombre": "Solo Tu y Yo (Ray De La Paz)",
+
+			"ruta": "canciones/solotuyyo.mp3"
+		},
+		{
 			"nombre": "Te Voy a Enseñar (Andy Montañez)",
 
 			"ruta": "canciones/tevoyaenseñar.mp3"
