@@ -3,6 +3,11 @@
 	"canciones": [
 		
 		{
+			"nombre": "Tiempo Pa Matar (Willie Colón)",
+
+			"ruta": "canciones/tiempopamatar.mp3"
+		},
+		{
 			"nombre": "Galera Tres (Ismael Miranda)",
 
 			"ruta": "canciones/galeratres.mp3"
